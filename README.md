@@ -1,2 +1,4 @@
 # firstWeb
-My first web design project
+My very first web design project
+for school designing project
+WIP
